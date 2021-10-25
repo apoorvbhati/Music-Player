@@ -1,0 +1,30 @@
+.Header {
+    text-align: center;
+    display: block;
+    background-color: #d6d8d8a6;
+}
+
+.Header input{
+    text-align: center;
+    width: 30%;
+    background-color: #f1f1f1;
+    outline: #5c5d5f3d;
+}
+
+.Header input:hover, input:focus {
+    outline: none;
+}
+
+.filter {
+    text-align: left;
+    display: block;
+    padding: 10px;
+}
+
+.filter span {
+    margin: 10px;
+}
+
+.search {
+    padding: 10px;
+}

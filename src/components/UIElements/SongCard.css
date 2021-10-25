@@ -1,0 +1,18 @@
+.box {
+  margin: 40px;
+  height: 350px;
+  
+}
+
+.grid {
+  min-height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 100%;
+  background-color: mintcream;
+}
+
+.image {
+    height: 250px;
+}
